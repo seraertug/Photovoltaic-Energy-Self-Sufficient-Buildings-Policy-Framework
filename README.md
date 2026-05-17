@@ -50,3 +50,14 @@ To bridge theory with real-world engineering, we conducted an on-site case study
 By analyzing TMB's concrete thermal labyrinth and energy distribution infrastructure, we optimized our policy framework to ensure that our legislative proposal remains practical, scalable, and highly adaptable to regional climate variations. 
 
 ---
+
+## 4. Repository Structure & Navigation Map
+This project is an interdisciplinary effort combining data science, law, and civil engineering. Explore the specialized divisions below:
+
+| Directory | Core Contents | Purpose |
+| :--- | :--- | :--- |
+| 📂 [`/technical-modeling`](./technical-modeling/) | Jupyter Notebook, `data_verified.csv`, ROI graphs, TMB engineering analysis | Python energy modeling & financial forecasting & real-world validation of the framework|
+| 📂 [`/legislative-documents`](./legislative-documents/) | Official bill scans, amendment drafts, committee notes | Structural legal work presented to TBMM |
+| 📂 [`/advocacy-and-outreach`](./advocacy-and-outreach/) | [IMPACT_REPORT.md](./advocacy-and-outreach/IMPACT_REPORT.md), media links, documentary video | Public petition metrics & national media kit |
+
+---

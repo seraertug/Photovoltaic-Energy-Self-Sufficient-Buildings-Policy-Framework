@@ -12,7 +12,7 @@ Before diving into the code and legal frameworks, here is the real-world scale o
 
 ---
 
-## 🏛️ 1. The Legislative Catalyst (TBMM Advocacy)
+## 1. The Legislative Catalyst (TBMM Advocacy)
 We moved our research from classrooms straight to the heart of national decision-making: the **Turkish Grand National Assembly (TBMM)**. 
 
 ![Presenting to Parliament](advocacy-and-outreach/photos/7.jpg)
@@ -27,16 +27,26 @@ Instead of just demanding change, we drafted an amendment to the existing **Urba
 
 ---
 
-## Economic Impact & ROI Analysis
+## 2. Economic Impact & ROI Analysis
 
 Our model demonstrates a radical shift in household economics. By transitioning to PV-integrated systems, the monthly energy burden is replaced by a high-efficiency investment.
 
-### 1. Monthly Expense Transformation
+### Monthly Expense Transformation
 ![Cost Comparison](technical-modeling/visualizations/cost_comparison.png)
 *The SÜGEP model effectively eliminates major utility bills (electricity, heating, and fuel), replacing them with a minimal maintenance fee.*
 
-### 2. Investment Recovery Timeline
+### Investment Recovery Timeline
 ![ROI Projection](technical-modeling/visualizations/roi_projection.png)
 *With a monthly net saving of 10,930 TRY, the initial investment is recovered in approximately 31-38 months, after which the system provides pure financial gain to the household.*
 
 > *The complete predictive model, dataset, and visualization scripts are fully documented in the [technical-modeling/](./technical-modeling/) folder.*
+
+---
+
+## 3. Architectural Validation: LEED Platinum Fieldwork
+To bridge theory with real-world engineering, we conducted an on-site case study of the **Turkish Contractors Association (TMB) Headquarters**—a LEED Platinum, award-winning building utilizing advanced passive heating/cooling and integrated energy systems.
+
+
+By analyzing TMB's concrete thermal labyrinth and energy distribution infrastructure, we optimized our policy framework to ensure that our legislative proposal remains practical, scalable, and highly adaptable to regional climate variations. 
+
+---

@@ -12,6 +12,20 @@ Before diving into the code and legal frameworks, here is the real-world scale o
 
 ---
 
+## 🏛️ 1. The Legislative Catalyst (TBMM Advocacy)
+We moved our research from classrooms straight to the heart of national decision-making: the **Turkish Grand National Assembly (TBMM)**. 
+
+![Presenting to Parliament](advocacy-and-outreach/photos/7.jpg)
+![Presenting to Parliament](advocacy-and-outreach/photos/6.jpg)
+*Figure 1: Presenting our technical-economic framework and policy draft directly to Members of Parliament.*
+
+
+Instead of just demanding change, we drafted an amendment to the existing **Urban Transformation Law**, making photovoltaic solar integration a structural mandate for new urban infrastructure. 
+![legislative-documents/](legislative-documents/1.jpg)
+![legislative-documents/](legislative-documents/2.jpg)
+![legislative-documents/](legislative-documents/3.jpg)
+
+---
 
 ## Economic Impact & ROI Analysis
 

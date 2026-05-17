@@ -39,4 +39,4 @@ Our model demonstrates a radical shift in household economics. By transitioning 
 ![ROI Projection](technical-modeling/visualizations/roi_projection.png)
 *With a monthly net saving of 10,930 TRY, the initial investment is recovered in approximately 31-38 months, after which the system provides pure financial gain to the household.*
 
-> *The complete predictive model, dataset, and visualization scripts are fully documented in the [technical-analysis/](./technical-analysis/) folder.*
+> *The complete predictive model, dataset, and visualization scripts are fully documented in the [technical-modeling/](./technical-modeling/) folder.*

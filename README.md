@@ -61,3 +61,11 @@ This project is an interdisciplinary effort combining data science, law, and civ
 | 📂 [`/advocacy-and-outreach`](./advocacy-and-outreach/) | [IMPACT_REPORT.md](./advocacy-and-outreach/IMPACT_REPORT.md), media links, documentary video | Public petition metrics & national media kit |
 
 ---
+
+## 5. Personal Reflection: Carrying Ideas Beyond Classrooms
+What mattered most to me in this process was learning how an engineering-based idea can be translated into a policy-ready framework. This experience taught me how civic engagement, communication, and media strategy can transform a technical idea into a publicly and politically actionable proposal.
+
+It also reinforced something I deeply believe: **meaningful impact doesn’t require titles or age—only persistence, collaboration, and the courage to carry ideas beyond classrooms and into real decision-making spaces.**
+
+---
+*For inquiries, collaboration on sustainable urbanism, or reviewing the full technical brief, please refer to the comprehensive [Impact Report](./advocacy-and-outreach/IMPACT_REPORT.md) or check out our [Official Project Page](https://sugep.exposure.co/buildings-with-photovoltaic-systems).*

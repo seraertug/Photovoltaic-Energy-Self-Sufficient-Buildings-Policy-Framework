@@ -43,7 +43,17 @@ Our model demonstrates a radical shift in household economics. By transitioning 
 
 ---
 
-## 3. Architectural Validation: LEED Platinum Fieldwork
+### 3. Macro-Scale Legislative Simulation (Regional Scaling)
+To justify the necessity of this legislative amendment to policymakers, we scaled our single-building empirical data across regional urban transformation targets using a custom predictive framework:
+
+* **Scenario A (Local Pilot):** Transforming **500 buildings** yields **65.5 Million TRY** in annual savings and mitigates **2,700 tons of CO2** per year.
+* **Scenario B (City-Wide Legislation):** Scaling the mandate to **900,000 buildings** (Izmir’s regional target) injects **118 Billion TRY annually** back into the national economy and mitigates **4.8 Million tons of CO2** every single year.
+
+> *The complete simulation engine and structural scenarios are fully executable in the [technical-analysis/](./technical-analysis/) directory.*
+
+---
+
+## 4. Architectural Validation: LEED Platinum Fieldwork
 To bridge theory with real-world engineering, we conducted an on-site case study of the **Turkish Contractors Association (TMB) Headquarters**—a LEED Platinum, award-winning building utilizing advanced passive heating/cooling and integrated energy systems.
 
 
@@ -51,18 +61,18 @@ By analyzing TMB's concrete thermal labyrinth and energy distribution infrastruc
 
 ---
 
-## 4. Repository Structure & Navigation Map
+## 5. Repository Structure & Navigation Map
 This project is an interdisciplinary effort combining data science, law, and civil engineering. Explore the specialized divisions below:
 
 | Directory | Core Contents | Purpose |
 | :--- | :--- | :--- |
-| 📂 [`/technical-modeling`](./technical-modeling/) | Jupyter Notebook, `data_verified.csv`, ROI graphs, TMB engineering analysis | Python energy modeling & financial forecasting & real-world validation of the framework|
+| 📂 [`/technical-modeling`](./technical-modeling/) | Jupyter Notebooks, `data_verified.csv`, ROI graphs, TMB engineering analysis | Python energy modeling & financial forecasting & real-world validation of the framework|
 | 📂 [`/legislative-documents`](./legislative-documents/) | Official bill scans, amendment drafts, committee notes | Structural legal work presented to TBMM |
 | 📂 [`/advocacy-and-outreach`](./advocacy-and-outreach/) | [IMPACT_REPORT.md](./advocacy-and-outreach/IMPACT_REPORT.md), media links, documentary video | Public petition metrics & national media kit |
 
 ---
 
-## 5. Personal Reflection: Carrying Ideas Beyond Classrooms
+## 6. Personal Reflection: Carrying Ideas Beyond Classrooms
 What mattered most to me in this process was learning how an engineering-based idea can be translated into a policy-ready framework. This experience taught me how civic engagement, communication, and media strategy can transform a technical idea into a publicly and politically actionable proposal.
 
 It also reinforced something I deeply believe: **meaningful impact doesn’t require titles or age—only persistence, collaboration, and the courage to carry ideas beyond classrooms and into real decision-making spaces.**
